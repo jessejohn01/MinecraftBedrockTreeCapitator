@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Efficient TreeCapitator / Vein Miner",
+    "name": "JL Fast TreeCapitator",
+    "uuid": "ed441452-c40d-40f7-99a3-a7fbf44e6f96",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "description": "Efficient TreeCapitator / Vein Miner",
+      "type": "data",
+      "uuid": "fb269205-3631-4196-9e41-f681852c6587",
+      "version": [1, 0, 0]
+    }
+  ]
+}
